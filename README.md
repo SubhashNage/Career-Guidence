@@ -11,7 +11,7 @@ A website that will help students make career decisions based on their careeer i
    To access this project on your local files, you can clone it using these steps
    Open your terminal
    Use this command to clone `$ git clone
-   https://github.com/samwel-chege/Career-Guidance.git
+   https://github.com/SubhashNage/Career-Guidence
    This will clone the repositoty into your local folder 
 ​
 ## BDD
