@@ -5,11 +5,7 @@ Career Guidance
 A website that will help students make career decisions based on their careeer interests. 
 
 ## Author(s) information
-  -Samwel Chege
-  -Brian Karu
-  -Enock Abere
-  -Brian Kirui
-  -Jesse Wainaina
+  Subhash Nage
   
 ## Setup instructions
    To access this project on your local files, you can clone it using these steps
@@ -30,7 +26,7 @@ A website that will help students make career decisions based on their careeer i
     
   
 ## Live link
-[Career Guidance](https://samwel-chege.github.io/Career-Guidance/)
+[Career Guidance]
 ​
 ## Technologies used
  - HTML
@@ -40,11 +36,11 @@ A website that will help students make career decisions based on their careeer i
  - Bootstrap
   
 ## Contact information
-[Linkedin](https://www.linkedin.com/in/samwel-chege-b069b618b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7fqY2RrWTXau9R%2FB2Uw4Bg%3D%3D)<br>
-[Email](samwelchegeh09@gmail.com)
+[Linkedin](linkedin.com/in/subhash-nage-0432a0249)<br>
+[Email](subhashnage435@gmail.com)
     
 ## License and Copyright information
-    Copyright 2021 Samwel Chege
+    Copyright 2024 Subhash nage
 ​
     Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 ​
